@@ -1,18 +1,28 @@
 333333333
 
 A.  Explain how digital signature works with public/private keypairs.
-
+digital signature is a way using public,private keypairs to certificate the user. When user wants to certificate own self, this system send the code to main system,and this code would be able to know main system mangers only. 
 B.  Identify your favorite Java project this semester.  
+    What my favorite project was Card
     Describe two things you learned by doing the project.
+    what i learned by doing this is how set the bases in complex arraies. there are many classes in one project, so was hard work though...
+    and also i learned how to combine (this.~) with the other classes such like for loot, String array etc..
     Describe two ways in which the project could be improved or expanded.
-    
+    if this project should be expaded, putting more options like when you got high cards, array know that, and says you got tripple A! you would win!
+    Another way is finding more detail and concrete word to make this project simple.
 C.  Describe two advantages of object-oriented programming.
+1.a clear modular structure for programs which makes it good for defining abstract datatypes.
+2.makes it easy to maintain and modify existing code as new objects can be created with small differences to existing ones.
     Describe two disadvantages of object-oriented programming.
-    
+1.    Object Oriented programs are much larger than other programs.
+2.    Object Oriented programs require a lot of work to create.
 D.  Consider the following PYTHON code for the MNode class given below.
-    What is the difference in the way Python and Java handle the declaration of datatypes?
+    What is the difference in the way Python and Java handle the declaration of datatypes? 
+    the using {} [] () is different. In java we usually distinguish at every array but python is not.
     Explain the difference in how constructors are written in Python vs Java.
+    The using of indent is one of big differences between two of these. java doesnt care where we put indent,but In cases of python, the indent is significant.
     Which language do you prefer?  Explain why.
+    I'd like to handle java more, rather than use Python,because in common, java is more common used in our life and useful to develop my ideas.
 -------------------------------------------------------------------------------------
     import hashlib
 
