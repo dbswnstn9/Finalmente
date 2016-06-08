@@ -2,13 +2,21 @@
 
 A.  Explain what recursion is and when it is useful.
     Explain what the |termination step| and |recursion step| are in a recursive method.
-
+recursion is one of method that can call one method and itself. This is useful when we need to call the method, and make array simple.
+Termination step - 
+recursion step -  a method where the solution to a problem depends on solutions to smaller instances of the same problem.
 B.  Describe the difference between a Queue and a Stack.
-
+Stack- this is called LIFO structure, the output is what at first came in (input) 
+Queue- this is called FIFO structure, the input would out as a output at last.
 C.  Write a class for an element of a doublely-linked list.
 
 D.  Explain what a Merkle Tree is.  
+   Merkle Tree is (Hash Tree) structured like Tree, and usually used this tool when test some files which is given from p2p system.
     Describe the structure and purpose of a Merkle Tree.
+    This is formed like Tree, so there are some branches that include hash information. These have an advantage can test whether the other files was changed or not.
     What is the Merkle root?
+    Merkle root is a value which is located Merkle path, and among the values Merkel root is located at the top of the Tree.
     What is the function of a certificate in this data structure?
+    All the data are belonging each other so that as i said, its easy to know which data is changed.
+    
     
